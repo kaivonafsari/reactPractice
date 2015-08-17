@@ -1,0 +1,23 @@
+{
+  "date": "2015-08-17T20:10:34.584Z",
+  "mode": "development",
+  "browser": {
+    "relativePath": "browser",
+    "hash": "f02a2370",
+    "assets": "assets.js",
+    "component": "component.js",
+    "style": "style.css",
+    "translations": [
+      "en-US.js",
+      "fr.js",
+      "ja.js"
+    ]
+  },
+  "server": {
+    "relativePath": "server",
+    "hash": "d04baa8b",
+    "assets": "assets.js",
+    "component": "component.js",
+    "translation": "all-translations.js"
+  }
+}

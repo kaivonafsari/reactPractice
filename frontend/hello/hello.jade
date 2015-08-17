@@ -1,0 +1,12 @@
+.hello-page
+  h1 My hello Page
+  h2 What's Up!
+  h3 #{this.props.params.name}
+  h3 #{this.state.count}
+  button(onClick=this.add) Up It!
+  if this.props.params.name == "Kaivon"
+    h2 yo
+  hr
+  pellet_message(name="Afsari"+this.state.count)
+  hr
+  a(href="/about") About

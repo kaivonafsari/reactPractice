@@ -1,0 +1,7 @@
+// intermediate file (so no duplicate globes/mixins/etc)
+@import "/Users/Kaivon/Desktop/reactPractice/second-project/frontend/about/about.styl"
+@import "/Users/Kaivon/Desktop/reactPractice/second-project/frontend/hello/hello.styl"
+@import "/Users/Kaivon/Desktop/reactPractice/second-project/frontend/layout1/layout1.styl"
+@import "/Users/Kaivon/Desktop/reactPractice/second-project/frontend/message/message.styl"
+@import "/Users/Kaivon/Desktop/reactPractice/second-project/assets/second-project.styl"
+@import "/usr/local/lib/node_modules/pellet/src/components/multivariate-testing/dashboard/abn-dashboard.styl"

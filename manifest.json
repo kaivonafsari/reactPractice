@@ -1,0 +1,70 @@
+[
+  {
+    "name": "about",
+    "version": "0.0.0",
+    "component": "./frontend/about/about.js",
+    "styleMain": [
+      "./frontend/about/about.styl"
+    ],
+    "excluded": false,
+    "assets": [],
+    "client-dependencies": [],
+    "server-dependencies": [],
+    "code": [],
+    "translations": "./frontend/about/translations.json"
+  },
+  {
+    "name": "hello",
+    "version": "0.0.0",
+    "component": "./frontend/hello/hello.js",
+    "styleMain": [
+      "./frontend/hello/hello.styl"
+    ],
+    "excluded": false,
+    "assets": [],
+    "client-dependencies": [],
+    "server-dependencies": [],
+    "code": [],
+    "translations": "./frontend/hello/translations.json"
+  },
+  {
+    "name": "layout1",
+    "version": "0.0.0",
+    "component": "./frontend/layout1/layout1.js",
+    "styleMain": [
+      "./frontend/layout1/layout1.styl"
+    ],
+    "excluded": false,
+    "assets": [],
+    "client-dependencies": [],
+    "server-dependencies": [],
+    "code": [],
+    "translations": "./frontend/layout1/translations.json"
+  },
+  {
+    "name": "message",
+    "version": "0.0.0",
+    "component": "./frontend/message/message.js",
+    "styleMain": [
+      "./frontend/message/message.styl"
+    ],
+    "excluded": false,
+    "assets": [],
+    "client-dependencies": [],
+    "server-dependencies": [],
+    "code": [],
+    "translations": "./frontend/message/translations.json"
+  },
+  {
+    "name": "secondProject",
+    "version": "0.0.0",
+    "translations": "./assets/translations.json",
+    "component": "./frontend/index.js",
+    "styleMain": "./assets/second-project.styl",
+    "excluded": false,
+    "assets": [],
+    "client-dependencies": [],
+    "server-dependencies": [],
+    "code": []
+  }
+]
